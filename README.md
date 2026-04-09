@@ -28,6 +28,11 @@ A simple project to control an LED using a push button.
 
 ---
 
+## 📷 Project Preview
+<img width="601" height="504" alt="image" src="https://github.com/user-attachments/assets/265ac6b8-da70-4f38-8790-37493f86f3da" />
+
+---
+
 ## 💻 Code
 ```cpp
 void setup() {
